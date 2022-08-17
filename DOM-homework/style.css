@@ -1,0 +1,66 @@
+#excercise {
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    line-height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+#excercise1 {
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    line-height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+#excercise2 {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+ 
+
+#excercise3 {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+#excercise4 {
+    width: 300px;
+    height: 300px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    line-height: 300px;
+    border-radius: 10px;
+    font-size: 14px;
+    margin: 10px;
+
+}
+.flex1 {
+    display: flex;
+    justify-content: space-around;
+    
+}
